@@ -1,3 +1,8 @@
+body {
+    background: url(/images/wallpapersden.com_starry-night-landscape_1920x1080.jpg);
+    color: #fff;
+}
+
 .container {
     margin: auto;
     width: 80%;
